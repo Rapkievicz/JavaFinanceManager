@@ -1,7 +1,22 @@
-# JavaFinanceManager
+# Project summary - Resumo do projeto
+Basic personal finance calculator application in Java.
 
-Basic personal finance calculator application in Java. It allows user to add expenses, calculate total expense and list all expenses.
+Aplicação básica de calculadora de finanças pessoais em Java.
 
-##
 
-Aplicação básica de calculadora de finanças pessoais em Java. Ela permite ao usuário adicionar despesas, calcular a despesa total e listar todas as despesas. 
+&nbsp;
+
+## 🔨 Project features - Funcionalidades do projeto
+Application that allows the user to add expenses, calculate the total expense and list all expenses.
+
+Aplicação que permite ao usuário adicionar despesas, calcular a despesa total e listar todas as despesas.
+
+
+&nbsp;
+
+## ✔️ Techniques and technologies used - Técnicas e tecnologias utilizadas
+
+- ``Java 8``
+- ``Eclipse Workspace``
+- ``POO``
+- ``Lists``
