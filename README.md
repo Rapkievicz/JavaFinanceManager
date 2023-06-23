@@ -20,3 +20,7 @@ Aplicação que permite ao usuário adicionar despesas, calcular a despesa total
 - ``Eclipse Workspace``
 - ``POO``
 - ``Lists``
+
+
+##
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80"/>
